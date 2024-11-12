@@ -1,0 +1,111 @@
+# Our Key Services
+
+Explore our range of IT services designed to help your business thrive in the digital age
+
+1. Software Development and Management
+ - Custom Application Development
+ - API Development & Integration
+ - AI/ML Solutions
+ - Enterprise Solution Design & Consultancy
+
+2. Database Services 
+ -  Oracle:
+    - Oracle Database Implementation and Administration
+    - Oracle Real Application Cluster Implementation and Administration
+    - Backup and Recovery Solution Implementation and Administration
+    - Active Data Guard/Golden Gate Implementation and Administration
+    - Query optimization & Performance Tuning
+    - Database Security  
+    - Disaster Recovery Site Planning
+
+ - MySQL:
+    - MySQL Database Implementation and Administration
+    - MySQL Database Replication Implementation and Administration
+    - MySQL Cluster
+    - Performance Tuning
+    - Database Security  
+    - Disaster Recovery Site Planning
+
+ - PostgreSQL:
+   - PostgreSQL Database Implementation and Administration
+   - PostgreSQL Database Replication Implementation and Administration
+   - PostgreSQL Cluster
+   - Performance Tuning
+   - Database Security  
+   - Disaster Recovery Site Planning
+
+ - MSSQL:
+   - MSSQL Database Implementation and Administration
+   - MSSQL Database Replication Implementation and Administration
+   - Performance Tuning
+   - Database Security  
+   - Disaster Recovery Site Planning
+
+3. Infrastructure Management
+    - Server
+    - Storage
+    - Backup
+    - Network
+4.	Cloud Services Management
+    - AWS Cloud Services
+    - Google Cloud Services
+    - Oracle Cloud Services
+    - Azure Cloud Services
+    - On-prem Private Cloud Services
+5.	Backup Solutions 
+    - Disk and Tape Based Backup System
+    - Backup Software Implementation and Administration
+    - Disaster Recovery Plan
+
+6.	SAN Solutions
+    - Storage Implementation and Administration
+    - SAN Migration
+    - SAN Switch Implementation and Zoning
+
+7.	Virtualization Solutions
+    - VMWare
+    - Windows Hypervisor
+    - Oracle Virtual Manager Server
+
+8.	Quality Assurance (QA) Solutions
+    - Manual Testing Services
+        - Functional Testing
+        - Usability Testing
+        - Compatibility Testing
+        - Regression Testing
+
+    - Automated Testing Services
+        - Test Automation Framework Development
+        - API Testing Automation
+        - Regression Automation
+
+    - Performance Testing
+        - Load Testing
+        - Stress Testing
+        - Scalability Testing
+        - Endurance Testing
+
+    - Security Testing
+        - Vulnerability Assessment Check and Mitigation (Network/System/Application)
+        - Penetration Testing
+        - Compliance Testing
+
+    - Mobile Testing
+        - Functional and Usability Testing for mobile apps across Android and iOS.
+        - Performance and Load Testing on mobile networks.
+        - Device Compatibility Testing on various screen sizes and OS versions.
+
+    - Test Management and Consulting
+        - Quality Audit and Assessment
+        - Test Planning and Strategy
+        - On-Demand Testing
+
+    - User Acceptance Testing (UAT) Support
+        - UAT Environment Setup: Sets up the environment for UAT.
+        - End-User Training
+
+9.	System Services
+    - Linux Administration
+    - Windows Server Administration
+
+

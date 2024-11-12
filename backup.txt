@@ -1,0 +1,70 @@
+
+<section id="services" class="feature-one" style="padding: 60px 0; background-color: #f4f4f4;">
+    <div class="container">
+        <div class="section-title text-center" style="margin-bottom: 40px;">
+            <h2 style="font-size: 2.5rem; color: #333;">Our Key Services</h2>
+            <p style="font-size: 1rem; color: #777; max-width: 600px; margin: 0 auto;">Explore our range of IT services designed to help your business thrive in the digital age.</p>
+        </div>
+        <div class="row">
+            <!-- Service 1: IT Consulting Services -->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="feature-one__single" style="background-color: #fff; border-radius: 10px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+                    <div class="feature-one__content" style="text-align: center;">
+                        <h3 style="font-size: 1.75rem; color: #1d82e2;">IT Consulting Services</h3>
+                        <p style="color: #666; margin-top: 10px; font-size: 1rem;">Leverage expert advice to improve and optimize your IT infrastructure.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service 2: Managed IT Solutions -->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                <div class="feature-one__single" style="background-color: #fff; border-radius: 10px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+                    <div class="feature-one__content" style="text-align: center;">
+                        <h3 style="font-size: 1.75rem; color: #1d82e2;">Managed IT Solutions</h3>
+                        <p style="color: #666; margin-top: 10px; font-size: 1rem;">Reliable IT solutions designed to manage and maintain your IT systems.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service 3: Cyber & IT Security -->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                <div class="feature-one__single" style="background-color: #fff; border-radius: 10px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+                    <div class="feature-one__content" style="text-align: center;">
+                        <h3 style="font-size: 1.75rem; color: #1d82e2;">Cyber & IT Security</h3>
+                        <p style="color: #666; margin-top: 10px; font-size: 1rem;">Safeguard your business with top-tier cyber and IT security solutions.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service 4: Software Development -->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="400ms">
+                <div class="feature-one__single" style="background-color: #fff; border-radius: 10px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+                    <div class="feature-one__content" style="text-align: center;">
+                        <h3 style="font-size: 1.75rem; color: #1d82e2;">Software Development</h3>
+                        <p style="color: #666; margin-top: 10px; font-size: 1rem;">Custom software development tailored to your business needs.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service 5: Cloud Solutions -->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="500ms">
+                <div class="feature-one__single" style="background-color: #fff; border-radius: 10px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+                    <div class="feature-one__content" style="text-align: center;">
+                        <h3 style="font-size: 1.75rem; color: #1d82e2;">Cloud Solutions</h3>
+                        <p style="color: #666; margin-top: 10px; font-size: 1rem;">Cloud infrastructure to help your business scale efficiently.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service 6: IT Support -->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="600ms">
+                <div class="feature-one__single" style="background-color: #fff; border-radius: 10px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+                    <div class="feature-one__content" style="text-align: center;">
+                        <h3 style="font-size: 1.75rem; color: #1d82e2;">IT Support</h3>
+                        <p style="color: #666; margin-top: 10px; font-size: 1rem;">24/7 support to keep your IT infrastructure running smoothly.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

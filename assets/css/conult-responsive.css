@@ -442,7 +442,142 @@
 
 }
 
+.service-tree {
+    max-width: 1000px;
+    margin: 0 auto;
+}
 
+.service-item {
+    margin-bottom: 10px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.service-header {
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.service-header:hover {
+    background-color: #f8f9fa;
+}
+
+.service-header i {
+    margin-right: 10px;
+    color: #1d82e2;
+}
+
+.service-header .fa-chevron-down {
+    margin-left: auto;
+    transition: transform 0.3s;
+}
+
+.service-content {
+    display: none;
+    padding: 15px 20px 15px 45px;
+    border-top: 1px solid #eee;
+}
+
+.sub-service {
+    margin: 10px 0;
+}
+
+.sub-service-header {
+    padding: 10px 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    color: #666;
+}
+
+.sub-service-header i {
+    margin-left: auto;
+    font-size: 0.8em;
+    transition: transform 0.3s;
+}
+
+.sub-service-content {
+    display: none;
+    padding: 10px 15px 10px 30px;
+}
+
+/* Active states */
+.service-item.active .service-header .fa-chevron-down,
+.sub-service.active .sub-service-header .fa-chevron-down {
+    transform: rotate(180deg);
+}
+
+.service-item.active .service-content,
+.sub-service.active .sub-service-content {
+    display: block;
+}
+
+/* List styling */
+.service-content ul,
+.sub-service-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.service-content ul li,
+.sub-service-content ul li {
+    padding: 8px 0;
+    position: relative;
+    padding-left: 20px;
+}
+
+.service-content ul li:before,
+.sub-service-content ul li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #1d82e2;
+}
+
+.service-item {
+    margin-bottom: 30px;
+  }
+  
+  .icon-box {
+    padding: 30px;
+    border-radius: 6px;
+    background: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .icon-box:hover {
+    transform: translateY(-5px);
+  }
+  
+  .service-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 15px;
+  }
+  
+  .service-list li {
+    padding: 5px 0;
+    position: relative;
+    padding-left: 20px;
+  }
+  
+  .service-list li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #47b2e4;
+  }
+  
+  .database-services h5 {
+    margin-top: 15px;
+    color: #37517e;
+  }
 
 
 
